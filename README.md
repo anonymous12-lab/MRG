@@ -26,6 +26,11 @@
 
 ------
 
+## Dsatset: sample.csv is tab-sperated file with columns metreview, reviews, recommendation and confidence score along with final decision
+
+------
+
 **Pre-Processing data in required format:**
 
 Pegasus: ```python converttopegasus.py```
+SUPERT: ```python converttosupert.py```
