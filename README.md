@@ -8,7 +8,7 @@
 
 ------
 
-**Super:** [SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization](https://aclanthology.org/2020.acl-main.124.pdf)
+**Supert:** [SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization](https://aclanthology.org/2020.acl-main.124.pdf)
 
 **Link:** https://github.com/yg211/acl20-ref-free-eval
 
@@ -26,7 +26,7 @@
 
 ------
 
-### Dataset: [sample.csv](https://github.com/anonymous12-lab/MRG/blob/main/sample.csv) is tab-sperated file with columns metreview, reviews, recommendation and confidence score along with final decision.
+### Dataset: [sample.csv](https://github.com/anonymous12-lab/MRG/blob/main/sample.csv) is tab-separated file with columns metreview, reviews, recommendation and confidence score along with final decision.
 
 ------
 
