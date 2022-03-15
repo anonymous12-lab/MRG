@@ -4,11 +4,11 @@ Model we use for experiments:
 
 **Pegasus** :[PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
 
-Link: https://github.com/bondarchukb/PEGASUS
+**Link:** https://github.com/bondarchukb/PEGASUS
 
 ------
 
-Super: SUPERT: [Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization](https://aclanthology.org/2020.acl-main.124.pdf)
+Super: [SUPERT: Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization](https://aclanthology.org/2020.acl-main.124.pdf)
 
 Link: https://github.com/yg211/acl20-ref-free-eval
 
