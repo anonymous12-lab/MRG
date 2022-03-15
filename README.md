@@ -24,3 +24,8 @@
 
 **Link:** https://github.com/DerwenAI/pytextrank
 
+------
+
+**Pre-Processing data in required format:**
+
+Pegasus: '''python converttopegasus.py'''
