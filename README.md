@@ -26,7 +26,7 @@
 
 ------
 
-### Dataset: [sample.csv](https://github.com/anonymous12-lab/MRG/blob/main/sample.csv) is tab-sperated file with columns metreview, reviews, recommendation and confidence score along with final decision
+### Dataset: [sample.csv](https://github.com/anonymous12-lab/MRG/blob/main/sample.csv) is tab-sperated file with columns metreview, reviews, recommendation and confidence score along with final decision.
 
 ------
 
