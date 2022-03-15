@@ -30,7 +30,7 @@
 
 ------
 
-**Pre-Processing data in required format:**
+**Pre-Processing data in required format for each model: __RUN__**
 
 Pegasus: ```python converttopegasus.py```
 
