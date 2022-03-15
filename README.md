@@ -28,4 +28,4 @@
 
 **Pre-Processing data in required format:**
 
-Pegasus: '''python converttopegasus.py'''
+Pegasus: ```python converttopegasus.py```
