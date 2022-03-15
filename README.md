@@ -4,7 +4,7 @@ Model we use for experiments:
 
 **Pegasus** :[PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](https://arxiv.org/abs/1912.08777)
 
-## https://github.com/bondarchukb/PEGASUS
+Alt-https://github.com/bondarchukb/PEGASUS
 
 Super: SUPERT: [Towards New Frontiers in Unsupervised Evaluation Metrics for Multi-Document Summarization](https://aclanthology.org/2020.acl-main.124.pdf)
 
